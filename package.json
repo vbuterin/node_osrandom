@@ -1,16 +1,16 @@
 {
-	name: 'osrandom',
-	description: 'simple utilities for accessing os-supplied sources of randomness',
-	homepage: 'https://github.com/stellaeof/node_osrandom',
-	author: 'Stella Laurenzo <stella@laurenzo.org>',
-	version: '1.0.0',
-	keywords: ['random', 'urandom', '/dev/urandom', 'CryptGenRandom'],
-	files: ['index.js'],
-	main: 'index',
+	"name": "osrandom",
+	"description": "simple utilities for accessing os-supplied sources of randomness",
+	"homepage": "https://github.com/stellaeof/node_osrandom",
+	"author": "Stella Laurenzo <stella@laurenzo.org>",
+	"version": "1.0.0",
+	"keywords": ["random", "urandom", "/dev/urandom", "CryptGenRandom"],
+	"files": ["index.js"],
+	"main": "index",
 	
-	repository: {
-		type: 'git',
-		url: 'git://github.com/stellaeof/node_osrandom.git'
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/stellaeof/node_osrandom.git"
 	}
 }
 
